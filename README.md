@@ -1,14 +1,14 @@
 # Steven Kight
 
-I'm an AI/ML engineer with a research focus in high-performance simulation and intelligent systems. My work sits at the intersection of applied mathematics, systems programming, and machine learning — I'm most interested in problems where the math is hard and the compute constraints are real.
+I'm an AI/ML engineer with a research focus in high-performance simulation and intelligent systems. My work sits at the intersection of applied mathematics, systems programming, and machine learning - I'm most interested in problems where the math is hard and the compute constraints are real.
 
 ---
 
 ## Research Interests
 
-- Physics simulation and HPC — building research-grade engines using C/C++, Fortran, and CUDA
-- Intelligent systems — multimodal AI, classification architectures, and agent-based workflows
-- Applied mathematics — deriving and implementing mathematical models for computational physics
+- Physics simulation and HPC - building research-grade engines using C/C++, Fortran, and CUDA
+- Intelligent systems - multimodal AI, classification architectures, and agent-based workflows
+- Applied mathematics - deriving and implementing mathematical models for computational physics
 
 ---
 
@@ -24,17 +24,17 @@ An AI routing system using multimodal face and voice recognition with a classifi
 
 ## Languages & Tools
 
-**Research & HPC** — C, C++, Fortran, CUDA, CMake, MATLAB, Python
+**Research & HPC** - C, C++, Fortran, CUDA, CMake, MATLAB, Python
 
-**AI / ML** — TensorFlow, Scikit-learn, OpenCV, PyTorch
+**AI / ML** - TensorFlow, Scikit-learn, OpenCV, PyTorch
 
-**Backend** — FastAPI, Celery, Django, ASP.NET, Spring Boot, SQL (PostgreSQL, MySQL)
+**Backend** - FastAPI, Celery, Django, ASP.NET, Spring Boot, SQL (PostgreSQL, MySQL)
 
-**Systems** — Rust, Java, C#
+**Systems** - Rust, Java, C#
 
-**Full Stack** — React, React Native, JavaScript, TypeScript
+**Full Stack** - React, React Native, JavaScript, TypeScript
 
-**Infrastructure** — Azure, AWS, Docker, Kubernetes, Helm, Azure DevOps, Proxmox, CI/CD
+**Infrastructure** - Azure, AWS, Docker, Kubernetes, Helm, Azure DevOps, Proxmox, CI/CD
 
 ---
 
