@@ -17,8 +17,8 @@ I'm an AI/ML engineer with a research focus in high-performance simulation and i
 **[Physics Engine](https://github.com/StevenKight/Physics-Engine)**
 A multi-language HPC physics simulation engine targeting rigid body mechanics. Built in C/C++, Fortran, and CUDA with CMake for portable cross-platform builds. Focused on GPU-accelerated computation and mathematically rigorous simulation design.
 
-**[Campus Smart Assistant](https://github.com/StevenKight/UWG-Smart-Assistant)**
-An AI routing system using multimodal face and voice recognition with a classification model backend to dynamically dispatch tasks to the appropriate campus system integrations.
+**[Home Media Stack](https://github.com/StevenKight/Home-Media-Stack)**
+A self-hosted home media server built on Docker with automated setup, privacy-first design, and no cloud required.
 
 ---
 
