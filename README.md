@@ -33,4 +33,4 @@ A self-hosted home media server built on Docker with automated setup, privacy-fi
 
 ## Contact
 
-[stevenkight.github.io](https://stevenkight.github.io) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/steven-kight-742729177/) &nbsp;|&nbsp; [sgk0711@gmail.com](mailto:sgk0711@gmail.com)
+[stevenkight.github.io](https://stevenkight.github.io) &nbsp;|&nbsp; [LinkedIn](https://www.linkedin.com/in/steven-g-kight) &nbsp;|&nbsp; [sgk0711@gmail.com](mailto:sgk0711@gmail.com)
