@@ -14,7 +14,7 @@ AI Engineer building production LLM and AI/ML systems, with research in GPU-acce
 
 **[Wolfie: UWG Smart Assistant](https://github.com/StevenKight/UWG-Smart-Assistant)** A research project building a campus-specific AI assistant for University of West Georgia students. A Python recognition pipeline classifies student requests and routes them to task-specific handlers.
 
-**[Home Media Stack](https://github.com/StevenKight/Home-Media-Stack)** A self-hosted home media server built on Docker with automated setup, privacy-first design, and no cloud required.
+**[Grotto](https://github.com/StevenKight/Grotto)** A self-hosted home media server application built on Docker with automated setup, privacy-first design, and no cloud required.
 
 ## Languages & Tools
 
